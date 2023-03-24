@@ -207,6 +207,10 @@ p{
      display: block;
    }
 
+   .drawer{
+    width: 60%;
+   }
+
    .profile.show{
  background-color: #ffffff;
 }
