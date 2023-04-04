@@ -48,6 +48,11 @@ min-height: 100vh;
 .drawer{
  border-radius: 1rem 1rem 0 0;
 }
+
+.col{
+  width: 100%;
+}
+
 p,h3,.profile{
  padding-inline: 2rem;
  padding-block-end: 1rem;
@@ -208,7 +213,7 @@ p{
    }
 
    .drawer{
-    width: 40%;
+    width: 80%;
    }
 
    .profile.show{
